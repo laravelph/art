@@ -11,7 +11,7 @@ Check the examples in `/examples`. Or:
 
 [Icon with type](https://raw.githubusercontent.com/laravelph/art/master/icon-with-type.svg "LaravelPH Logo with Text")
 
-See [codepen](https://codepen.io/joepal23/pen/RwQvJeM) 
+Open in [Codepen]([https://codepen.io/joepal23/pen/RwQvJeM](https://codepen.io/joepal23/full/RwQvJeM) "Full Codepen") 
 
 
 
