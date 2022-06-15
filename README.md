@@ -5,8 +5,12 @@ Laravel.PH logos
 
 # SVG
 
-Icon (see example for colored version): 
+Check the examples in `/examples`. Or:
 
-<img src="https://raw.githubusercontent.com/laravelph/art/master/icon.svg" alt="LaravelPH Logo Icon " class="icon" />
+[Icon](https://raw.githubusercontent.com/laravelph/art/master/icon.svg "LaravelPH Logo") - see [codepen](https://codepen.io/joepal23/pen/RwQvJeM) 
 
-See [example](examples/svg-icon.html)
+
+
+
+
+
