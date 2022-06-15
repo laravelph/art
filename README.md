@@ -6,5 +6,5 @@ Laravel.PH logos
 
 Icon: 
 
-<img src="[icon](https://raw.githubusercontent.com/laravelph/art/master/icon.svg)" alt="Icon" />
+![icon](https://raw.githubusercontent.com/laravelph/art/master/icon.svg "LaravelPH Logo Icon ")
 
